@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00e4ed93707ec8432515a3ad28679555",
+    "revision": "783fc622ad54c6c53367990db0c697d9",
     "url": "/Kzarama.github.io/index.html"
   },
   {
-    "revision": "39b009aa428b9c4db73e",
-    "url": "/Kzarama.github.io/static/css/main.4c0c3471.chunk.css"
+    "revision": "385c2adbaab5edd84462",
+    "url": "/Kzarama.github.io/static/css/main.1e1ba566.chunk.css"
   },
   {
-    "revision": "1346261579c0d743ebd7",
-    "url": "/Kzarama.github.io/static/js/2.bc360008.chunk.js"
+    "revision": "2a9096db9b11cc32e5b2",
+    "url": "/Kzarama.github.io/static/js/2.af857242.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Kzarama.github.io/static/js/2.bc360008.chunk.js.LICENSE.txt"
+    "url": "/Kzarama.github.io/static/js/2.af857242.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39b009aa428b9c4db73e",
-    "url": "/Kzarama.github.io/static/js/main.2f09891e.chunk.js"
+    "revision": "385c2adbaab5edd84462",
+    "url": "/Kzarama.github.io/static/js/main.fd5774ed.chunk.js"
   },
   {
     "revision": "627fc2589dbb249198ab",
